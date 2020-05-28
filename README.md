@@ -1,3 +1,5 @@
+Autor: Orion Maciejewski
+
 # My Digital Portfolio
 ## A theme by Sean Bachman
 
